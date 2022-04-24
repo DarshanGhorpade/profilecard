@@ -10,4 +10,4 @@ A simple profile card using HTML and CSS
 
 
 
-##[Visit here](https://darshanghorpade.github.io/profilecard/)
+[Visit here](https://darshanghorpade.github.io/profilecard/)
